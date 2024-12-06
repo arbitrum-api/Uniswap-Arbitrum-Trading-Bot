@@ -9,6 +9,8 @@ Features
     Simple API integration with Uniswap's trading functionality.
     Customizable parameters such as private key, transaction amount, slippage, and recipient address.
 
+https://medium.com/@landonscott03/how-to-buy-tokens-via-uniswap-on-arbitrum-using-api-7e346beccc46
+
 Prerequisites
 
     Python 3.7 or later.
